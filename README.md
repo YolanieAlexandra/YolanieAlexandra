@@ -1,6 +1,7 @@
-- 👋 Hello there, I’m Yolanie Alexandra
--  I’m currently learning everything about Data Analytics. Taking certifications and creating projects.
--  I’m looking to build a portafolio and learn as much as possible about data analytics and continue to develop skills
+ 👋 Hello there, I’m Yolanie Alexandra
+
+ Welcome to by GitHub site. I’m currently learning everything about Data Analytics. Taking certifications and creating projects and looking to build a portafolio and learn as much as possible about data analytics and continue to develop skills.
+ 
 
 
 <!---
